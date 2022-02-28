@@ -169,24 +169,6 @@ main .site-title{
     padding-left: 200px;
 }
 
-.circular-landscape{
-  display: inline-block;
-  position: relative;
-  width: 200px;
-  height: 200px;
-  overflow: hidden;
-  border-radius: 50%;
-  float:right;
-  margin:0 -500px 0 0;
-}
-
-.circular-landscape img {
-  display:flex;
-  width: auto;
-  height: 100%;
-  margin-left: -120px;
-}
-
 main .site-title .site-background{
     padding-top: 10rem;
     text-align: left;
