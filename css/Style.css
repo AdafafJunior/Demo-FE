@@ -336,6 +336,10 @@ footer.footer .rights{
         bottom: 1.2rem !important;
         border-radius: 0% !important;
     }
+    
+    .site-title .site-background{
+      align-items: flex-start;
+    }
 
     .site-content .sidebar .popular-post .post-info{
         display: none !important;
@@ -357,6 +361,10 @@ footer.footer .rights{
         flex-direction: column;
     }
 
+    .site-title .site-background{
+      align-items: flex-start;
+    }
+    
     .nav .toggle-collapse{
         display: initial;
     }
@@ -380,6 +388,10 @@ footer.footer .rights{
 @media only screen and (max-width: 520px){
     main .blog{
         height: 125vh;
+    }
+    
+    .site-title .site-background{
+      align-items: flex-start;
     }
 
     .site-content .post-content > .post-image .post-info{
