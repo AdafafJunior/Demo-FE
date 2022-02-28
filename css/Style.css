@@ -165,8 +165,7 @@ p{
 main .site-title{
     height: 87vh;
     display: flex;
-    justify-content: left;
-    padding-left: 200px;
+    justify-content: center;
 }
 
 main .site-title .site-background{
